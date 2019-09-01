@@ -1,2 +1,2 @@
 # hello-world
-just learning
+prolog is very logical
